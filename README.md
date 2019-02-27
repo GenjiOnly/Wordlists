@@ -1,2 +1,2 @@
 # wordlists
-Wordlists de senhas
+Wordlists de senhas e de usuários.
